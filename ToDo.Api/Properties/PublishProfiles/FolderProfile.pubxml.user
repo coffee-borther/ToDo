@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\PYF\CSharp_wpf_projects\MyToDo\ToDo.Api\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-05-16T08:43:21.9721594Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ToDoConnection">
+      <Value>Data Source=ToDo.db</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

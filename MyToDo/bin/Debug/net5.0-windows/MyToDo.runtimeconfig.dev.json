@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PYF\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PYF\\.nuget\\packages",
+      "E:\\Software\\VisualStudioShareFile\\NuGetPackages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

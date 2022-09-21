@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyToDo", "MyToDo\MyToDo.csproj", "{0BC8806A-27A8-48AF-B9B6-C22BFEE14ACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyToDo.Api", "ToDo.Api\MyToDo.Api.csproj", "{0CE272F8-F98A-4A13-811D-43677C3CAA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyToDo.Shared", "MyToDo.Shared\MyToDo.Shared.csproj", "{521D17A1-01E4-4407-914A-9B00EE3F6120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC8806A-27A8-48AF-B9B6-C22BFEE14ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC8806A-27A8-48AF-B9B6-C22BFEE14ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC8806A-27A8-48AF-B9B6-C22BFEE14ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC8806A-27A8-48AF-B9B6-C22BFEE14ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE272F8-F98A-4A13-811D-43677C3CAA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE272F8-F98A-4A13-811D-43677C3CAA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE272F8-F98A-4A13-811D-43677C3CAA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE272F8-F98A-4A13-811D-43677C3CAA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521D17A1-01E4-4407-914A-9B00EE3F6120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521D17A1-01E4-4407-914A-9B00EE3F6120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521D17A1-01E4-4407-914A-9B00EE3F6120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521D17A1-01E4-4407-914A-9B00EE3F6120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0681AA05-D2FB-422C-B4C1-125E73DBA159}
+	EndGlobalSection
+EndGlobal
