@@ -5,20 +5,20 @@
 
 登录界面：
 
-<img src="D:\PYF\Github\ToDo\README.assets\image-20220921222553607.png" alt="image-20220921222553607" style="zoom:50%;" />
+<img src="\README.assets\image-20220921222553607.png" alt="image-20220921222553607" style="zoom:50%;" />
 
 首页：
 
-<img src="D:\PYF\Github\ToDo\README.assets\image-20220921222826381.png" alt="image-20220921222826381" style="zoom:30%;" />
+<img src="\README.assets\image-20220921222826381.png" alt="image-20220921222826381" style="zoom:30%;" />
 
 待办事项页：
 
-<img src="D:\PYF\Github\ToDo\README.assets\image-20220921222908316.png" alt="image-20220921222908316" style="zoom:30%;" />
+<img src="\README.assets\image-20220921222908316.png" alt="image-20220921222908316" style="zoom:30%;" />
 
 备忘录页：
 
-<img src="D:\PYF\Github\ToDo\README.assets\image-20220921222929084.png" alt="image-20220921222929084" style="zoom:30%;" />
+<img src="\README.assets\image-20220921222929084.png" alt="image-20220921222929084" style="zoom:30%;" />
 
 设置页：
 
-<img src="D:\PYF\Github\ToDo\README.assets\image-20220921222954876.png" alt="image-20220921222954876" style="zoom:30%;" />
+<img src="\README.assets\image-20220921222954876.png" alt="image-20220921222954876" style="zoom:30%;" />
